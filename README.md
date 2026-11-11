@@ -1,4 +1,6 @@
 # API Rate Limiter & Monitoring Proxy
+**Live API Demo (Swagger UI):** https://api-rate-limiter-2us1.onrender.com/docs
+
 
 A lightweight, high-performance API Rate Limiter and Monitoring Proxy built with **Python** and **FastAPI**. It uses the **Sliding Window Log algorithm** to prevent API abuse and track real-time request metrics.
 
